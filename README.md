@@ -1,3 +1,5 @@
+# Package no longer maintained. Use https://github.com/magicismight/react-native-root-toast
+
 ### react-native-root-toast
 
 -----------------------
